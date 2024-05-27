@@ -1,1 +1,1 @@
-# Calculadora-React
+Calculadora do IPhone feito em ReactJS
